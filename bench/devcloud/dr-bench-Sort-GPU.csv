@@ -1,0 +1,3 @@
+,bench_name,Benchmark,Target,Ranks,Scaling,Bandwidth (TB/s),Bandwidth (GB/s),model,runtime,device,vsize,Number of GPU Tiles,Number of CPU Cores,Number of CPU Sockets,rtime
+36,Sort_Reference,Sort,Reference_GPU,1,strong,0.012188490594301042,12.188490594301042,SHP,SYCL,GPU,2000000000,1,56,1.0,656.3569080276889
+12,Sort_DR,Sort,SHP_SYCL_GPU,1,strong,0.012178811478170883,12.178811478170884,SHP,SYCL,GPU,2000000000,1,56,1.0,656.8785479879607
